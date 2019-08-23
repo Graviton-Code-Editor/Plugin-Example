@@ -2,7 +2,7 @@
 
 ![MadeForGraviton](https://raw.githubusercontent.com/Graviton-Code-Editor/website/master/src/badges/made_for_graviton.svg?sanitize=true)
 
-This repository is licensed under the CC0 license (Available in the "LICENSE.txt" file and / or [here](https://creativecommons.org/publicdomain/zero/1.0/legalcode)).
+This repository is licensed under the CC0 license (Available in the "LICENSE.md" file and / or [here](https://creativecommons.org/publicdomain/zero/1.0/legalcode)).
 
 Thanks to this license, you can do what you want with this repository.
 
