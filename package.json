@@ -1,5 +1,5 @@
 {
-  "name": "PluginExample",
+  "name": "Plugin-Example",
   "version": "1.0.0",
   "description": "An example Plugin for Graviton Editor.",
   "main": "index.js",
